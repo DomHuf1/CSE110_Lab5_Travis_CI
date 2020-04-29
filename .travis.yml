@@ -1,5 +1,6 @@
 language: java
-jdk: oraclejdk1.8
+dist: trusty
+jdk: openjdk8
 before_install:
   - sudo apt-get install -y ant
   - sudo apt-get install -y ant-optional
