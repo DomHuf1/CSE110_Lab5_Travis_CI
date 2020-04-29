@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd72bebb-2a3f-442e-926c-37fccea787f1" name="Default Changelist" comment="" />
+    <list default="true" id="dd72bebb-2a3f-442e-926c-37fccea787f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bEHvU2aFewnpAwvoxkaMPCFtti" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +34,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -48,6 +56,10 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DomHu\IdeaProjects\CSE110_Lab5\src" />
+      <recent name="C:\Users\DomHu\IdeaProjects\CSE110_Lab5" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.edu.ucsd.cs110.tests in CSE110_Lab5">
@@ -111,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588190562610</updated>
-      <workItem from="1588190568060" duration="3282000" />
+      <workItem from="1588190568060" duration="4483000" />
     </task>
     <servers />
   </component>
@@ -127,22 +139,22 @@
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
     <state x="3186" y="266" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588193022668" />
-    <state width="1083" height="304" key="GridCell.Tab.0.bottom" timestamp="1588193379247">
+    <state width="1108" height="304" key="GridCell.Tab.0.bottom" timestamp="1588194551640">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state width="1083" height="304" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588193379247" />
-    <state width="1083" height="304" key="GridCell.Tab.0.center" timestamp="1588193379247">
+    <state width="1108" height="304" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588194551640" />
+    <state width="1108" height="304" key="GridCell.Tab.0.center" timestamp="1588194551640">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state width="1083" height="304" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588193379247" />
-    <state width="1083" height="304" key="GridCell.Tab.0.left" timestamp="1588193379246">
+    <state width="1108" height="304" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588194551640" />
+    <state width="1108" height="304" key="GridCell.Tab.0.left" timestamp="1588194551639">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state width="1083" height="304" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588193379246" />
-    <state width="1083" height="304" key="GridCell.Tab.0.right" timestamp="1588193379247">
+    <state width="1108" height="304" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588194551639" />
+    <state width="1108" height="304" key="GridCell.Tab.0.right" timestamp="1588194551640">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state width="1083" height="304" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588193379247" />
+    <state width="1108" height="304" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1588194551640" />
     <state width="1298" height="371" key="GridCell.Tab.1.bottom" timestamp="1588193257858">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
